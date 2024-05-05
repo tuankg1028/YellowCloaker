@@ -1,6 +1,6 @@
 {
     "white": {
-        "action": "folder",
+        "action": "redirect",
         "folder": {
             "names": [
                 "white"
@@ -9,8 +9,8 @@
         "redirect": {
             "type": "303",
             "urls": [
-                "https://ya.ru",
-                "https://google.com"
+                "https://newsnextday.com/monetag-thinh",
+                "https://topnews88.uk/monetag-thinh"
             ]
         },
         "curl": {
@@ -49,7 +49,7 @@
     },
     "black": {
         "prelanding": {
-            "action": "none",
+            "action": "redirect",
             "folders": [
                 "preland"
             ],
@@ -62,7 +62,7 @@
             }
         },
         "landing": {
-            "action": "folder",
+            "action": "redirect",
             "folder": {
                 "names": [
                     "land"
