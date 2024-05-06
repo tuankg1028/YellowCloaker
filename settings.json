@@ -132,7 +132,7 @@
         "filters": {
             "allowed": {
                 "countries": ["UA",
-                    "BY", "WW"],
+                    "BY"],
                 "os": [
                     "Android",
                     "iOS",
