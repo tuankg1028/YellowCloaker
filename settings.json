@@ -132,7 +132,12 @@
         "filters": {
             "allowed": {
                 "countries": [],
-                "os": [],
+                "os": [
+                    "Android",
+                    "iOS",
+                    "Windows",
+                    "OS X"
+                ],
                 "inurl": [],
                 "languages": []
             },
