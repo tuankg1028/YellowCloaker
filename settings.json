@@ -131,7 +131,8 @@
         "saveuserflow": false,
         "filters": {
             "allowed": {
-                "countries": [],
+                "countries": ["UA",
+                    "BY"],
                 "os": [
                     "Android",
                     "iOS",
